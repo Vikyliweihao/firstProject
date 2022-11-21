@@ -34,5 +34,4 @@ public class StoreMessageController {
         System.out.println("新增一条门店信息");
     }
 
-
 }
