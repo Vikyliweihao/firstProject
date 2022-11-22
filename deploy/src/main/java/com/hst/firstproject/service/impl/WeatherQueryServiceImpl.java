@@ -4,7 +4,6 @@ import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONObject;
 import com.hst.firstproject.dto.WeatherDto;
 import com.hst.firstproject.service.WeatherQueryService;
-import com.hst.firstproject.utils.HttpHelper;
 import com.hst.firstproject.vo.QueryWeatherVo;
 import org.springframework.http.HttpEntity;
 import org.springframework.http.HttpHeaders;
